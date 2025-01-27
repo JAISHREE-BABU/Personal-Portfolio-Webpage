@@ -35,3 +35,7 @@ Writing clean, structured, and maintainable code.
 ## FEEDBACK AND COLLABORATION
 
 I’m open to feedback and suggestions to improve the website further. Feel free to fork this repository or reach out if you’d like to collaborate!
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8546cc70-b56b-454d-9aad-82ae68f8cc18)

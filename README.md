@@ -22,7 +22,7 @@ About Section: A brief overview of personal and professional background.
 
 Contact Section: Includes a contact form and links to social media profiles.
 
-#PURPOSE
+# PURPOSE
 
 This task allowed me to demonstrate my front-end development skills and apply core concepts of web design, focusing on:
 
@@ -32,7 +32,7 @@ Designing for responsiveness across various devices.
 
 Writing clean, structured, and maintainable code.
 
-#FEEDBACK AND COLLABORATION
+# FEEDBACK AND COLLABORATION
 
 I’m open to feedback and suggestions to improve the website further. Feel free to fork this repository or reach out if you’d like to collaborate!
 
